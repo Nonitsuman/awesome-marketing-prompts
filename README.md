@@ -31,6 +31,7 @@ A curated collection of battle-tested AI prompts, marketing frameworks, funnel s
 ### Social Media Growth
 
 Prompts for creating viral posts, reels, carousels, and engagement content.
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
 
 ### Funnel Building
 
