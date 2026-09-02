@@ -4,6 +4,13 @@ A curated collection of high-converting AI prompts, marketing frameworks, funnel
 
 A curated collection of battle-tested AI prompts, marketing frameworks, funnel strategies, content systems, and growth templates designed to help entrepreneurs, marketers, agencies, and SaaS companies scale faster using AI.
 
+## Publishing approved social content
+
+Use [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) after
+prompting and human review to adapt, schedule, and publish approved social
+content. The [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills)
+and [API docs](https://app.bulkpublish.com/docs) provide the publishing handoff.
+
 ## What You'll Find
 
 * Social Media Content Prompts
